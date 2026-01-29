@@ -36,4 +36,5 @@ The goal of this dashboard is to:
 • 	SQL (Data Extraction and Cleaning)
 
 6. Screenshot
+   https://github.com/Yogita313/HR-Analytics-dashboard/blob/main/HR-%20Analytics%20dashboard.png
   
